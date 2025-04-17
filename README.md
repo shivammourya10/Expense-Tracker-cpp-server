@@ -82,5 +82,26 @@ Response:
     "Transport": 50.0
 }
 ![alt text](image.png)
+
+## Frontend Instructions (if applicable)
+
+To start the frontend (ensure you are in the frontend directory):
+
+1.  Install dependencies:
+
+    ```bash
+    npm install
+    ```
+2.  Start the application:
+
+    ```bash
+    npm start
+    ```
+
+## Final Webpage
+
+![alt text](image-2.png)
+1. npm install
+2. npm start
 ## final webpage
 ![alt text](image-2.png)
