@@ -67,6 +67,7 @@ Request Body:
     "category": "Food",
     "amount": 100.0
 }
+![alt text](image-1.png)
 
 Response:
 Success: Expense added successfully
@@ -80,3 +81,6 @@ Response:
     "Food": 100.0,
     "Transport": 50.0
 }
+![alt text](image.png)
+## final webpage
+![alt text](image-2.png)
